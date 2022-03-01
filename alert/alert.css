@@ -1,0 +1,45 @@
+@import url("/styles.css");
+@import url("/main/main.css");
+
+
+.alert-text {
+    padding: 30px;
+}
+
+.messages {
+    margin-left: 30px;
+}
+
+.alert {
+    width: 50%;
+    padding: 12px 16px;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 12px;
+    font-size: 16px;
+}
+
+.alert.alert-success {
+    background-color: rgb(24, 248, 87);
+    border-color: rgb(2, 2, 2);
+    color: rgb(24, 26, 24);
+}
+
+.alert.alert-info {
+    background-color: rgb(44, 215, 238);
+    color: rgb(24, 25, 26);
+    border-color: rgb(13, 13, 14);
+}
+
+.alert.alert-warning {
+    background-color: rgb(245, 209, 30);
+    border-color: rgb(14, 14, 13);
+    color: rgb(12, 12, 11);
+}
+
+.alert.alert-danger {
+    background-color: rgb(243, 47, 64);
+    border-color: rgb(19, 18, 18);
+    color: rgb(17, 16, 16);
+}
