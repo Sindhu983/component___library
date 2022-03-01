@@ -1,0 +1,109 @@
+@import url('/styles.css');
+
+.main-context-conatiner{
+    display: grid;
+    grid-template-columns: 15rem 1fr;
+
+}
+.side-bar {
+    text-align: center;
+    border-right: 5px solid black;
+    padding-top: 3rem;  
+    line-height: 55px;
+    height: 150vh;
+}
+.avatar-text-container{
+    margin: 2.8rem 1rem 0 1rem;
+    padding-top: 5rem;
+}
+.avatar{
+    padding-bottom: 40px;
+    font-size: 2rem;
+}
+.para{
+    font-size: 1.2rem;
+    float: left;
+    margin-bottom: 80px;
+    
+}
+.round-avatar{
+    margin: 0 0 30px 0;
+
+}
+.large-image{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+}
+.medium-image{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+.small-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.code1-container{
+margin:2rem;
+}
+
+.round-avatar-text{
+    margin-right: 400px;
+    padding: 30px;
+    font-size: 2rem;
+}
+.square-avatar-text{
+    font-size: 2rem;
+    padding: 30px;
+}
+
+.square-avatar{
+    margin: 0 0 30px 0;
+
+}
+.sqr-large-image{
+    width: 110px;
+    height: 110px;
+}
+.sqr-medium-image{
+    width: 90px;
+    height: 90px;
+}
+.sqr-small-image{
+    width: 50px;
+    height: 50px;
+}
+
+.text-avatar {
+    display: flex;
+    margin-top: 2rem;
+    align-items: flex-end;
+  }
+  
+  .text1 {
+    font-size: 5rem;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 30px;
+}
+
+.text2 {
+    font-size: 4rem;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+.text3 {
+    font-size: 2rem;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 8px
+    
+}
+
+.text-avatar-text{
+    font-size: 2rem;
+}
