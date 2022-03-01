@@ -1,0 +1,28 @@
+@import url("/styles.css");
+
+p {
+    font: 1rem;
+}
+
+.main-container {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.audio-text {
+    font-size: 30px;
+    padding: 20px;
+}
+
+input {
+    margin-bottom: 40px;
+}
+
+.Audio {
+    border-radius: 5px;
+    padding: 20px;
+}
+
+body {
+    background-color: #f5f7fa;
+}
