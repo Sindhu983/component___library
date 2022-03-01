@@ -1,0 +1,59 @@
+@import url("/styles.css");
+@import url("/main/main.css");
+
+.badge-text {
+    text-align: center;
+    padding: 50px;
+    margin-right: 500px;
+}
+
+.badge-container {
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid rgb(141, 146, 190);
+    width: 27rem;
+    margin-left: 100px;
+}
+
+.profile {
+    position: relative;
+}
+
+.profile img {
+    height: 6rem;
+    width: 6rem;
+    border-radius: 12rem;
+}
+
+.profile {
+    border: 2px solid rgb(48, 248, 98);
+    border-radius: 5rem;
+    height: 6rem;
+    width: 6rem;
+}
+
+.profile-status {
+    position: absolute;
+    border: 9px solid rgb(17, 216, 61);
+    border-radius: 6rem;
+    bottom: 7px;
+    right: 7px;
+}
+
+.icon {
+    margin-top: 2rem;
+    display: block;
+    position: relative;
+}
+
+.icon-status {
+    position: absolute;
+    border: 1px solid rgb(12, 14, 14);
+    border-radius: 6rem;
+    bottom: 3.5rem;
+    left: 1.2rem;
+}
+
+.iframe-container {
+    padding: 100px;
+}
