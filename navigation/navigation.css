@@ -1,0 +1,28 @@
+@import url("/styles.css");
+@import url("/main/main.css");
+
+.nav-list {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-bottom: 3rem;
+    padding: 1rem;
+    overflow: hidden;
+    background-color: rgb(63, 19, 223);
+    width: 40rem;
+    margin-left: 5rem;
+}
+
+.nav-navigation {
+    margin-left: 15rem;
+    padding: 2rem;
+}
+
+.nav-lists {
+    float: left;
+    color: black;
+}
+
+.navigation1 {
+    padding-top: 5rem;
+}
