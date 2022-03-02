@@ -1,0 +1,46 @@
+@import url("/styles.css");
+@import url("/main/main.css");
+
+body {
+    background-color: #EFF6FF;
+}
+
+.main-container {
+    text-align: center;
+}
+
+.paragraph {
+    font-size: 2rem;
+    padding: 20px;
+}
+
+.languages {
+    display: flex;
+    margin-left: 400px;
+}
+
+.field {
+    margin: 1px;
+    padding: 1px;
+}
+
+.validation-text {
+    padding: 40px;
+
+}
+
+.user-datail-class {
+    width: 19rem;
+    height: 15rem;
+    border: 1px solid black;
+    margin-left: 360px;
+    margin-bottom: 2rem;
+}
+
+.basic-text-input {
+    padding: 40px;
+}
+
+.radio-text {
+    padding: 20px;
+}
