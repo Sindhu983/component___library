@@ -1,0 +1,109 @@
+@import url("/styles.css");
+@import url("/main/main.css");
+
+.headings-container {
+    width: 24rem;
+    height: 23rem;
+    border: 2px solid black;
+    margin-bottom: 1rem;
+}
+
+.Headings {
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.Headings h1 {
+    font-size: 3rem;
+}
+
+.Headings h2 {
+    font-size: 2.5rem;
+}
+
+.Headings h3 {
+    font-size: 2rem;
+}
+
+.Headings h4 {
+    font-size: 1.6rem;
+}
+
+.Headings h5 {
+    font-size: 1.2rem;
+}
+
+.text-container {
+
+    height: 15rem;
+    width: 35rem;
+    text-align: center;
+}
+
+.texts {
+    text-align: center;
+    margin-left: 20rem;
+}
+
+.small-text {
+    font-size: 1.8rem;
+    margin: 0.5em;
+}
+
+.medium-text {
+    font-size: 2rem;
+}
+
+.large-text {
+    font-size: 2.5rem;
+
+}
+
+.strike-text {
+    text-align: center;
+    font-size: 1.6rem;
+    color: #008080;
+}
+
+.center-text {
+    font-size: 1.5rem;
+    text-align: 1.6rem;
+    color: #000080;
+}
+
+.primary-color {
+    font-size: 1.5;
+    color: #800080;
+}
+
+div.center {
+    text-align: center;
+    list-style-type: none;
+    color: #7979e4;
+}
+
+body {
+    background-color: #EFF6FF;
+}
+
+.typhography-title,
+.heading-of-tags {
+    text-align: center;
+}
+
+.code-carbon {
+    text-align: center;
+}
+
+.text-sizes-title {
+    text-align: center;
+    margin-right: 6rem;
+}
+
+.texts-code-carbon {
+    padding-top: 2rem;
+    text-align: center;
+    margin-right: 10rem;
+}
