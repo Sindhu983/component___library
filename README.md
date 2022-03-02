@@ -13,3 +13,9 @@ A component library is a set of readymade UI components. It helps designers to w
 * Text utilities
 * Navigation
 
+# Technologies Used
+
+* HTML
+* CSS
+
+
