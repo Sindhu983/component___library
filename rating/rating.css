@@ -1,0 +1,25 @@
+@import url("/styles.css");
+@import url("/main/main.css");
+
+.rating-body-container{
+    margin-left: 7rem;
+}
+.rating-title{
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+.star-rating{
+    padding: 20px;
+}
+
+.rating {
+    font-size: 1.4rem;
+}
+.point-rating{
+    padding-top: 20px;
+}
+
+.checked {
+    color: var(--gold-900);
+}

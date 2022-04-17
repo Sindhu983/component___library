@@ -1,0 +1,43 @@
+@import url("/styles.css");
+@import url("/main/main.css");
+
+.list-main-container{
+    margin-left: 5rem;
+}
+
+.stacked-list{
+    margin-top: 10px;
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    gap: 15px;
+    width: 70%;
+    text-align: center;
+    margin-left: 80px;
+    color:rgb(18, 70, 214)
+    
+}
+.para_1{
+    padding-top: 25908px;
+}
+.stacked-list > li{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  
+}
+.que-list{
+    padding: 20px;
+}
+.row-list{
+    display: flex;
+    list-style: none;
+    margin-left: 50px;
+    gap: 20px;
+    border: 1px solid #c3c3c3;
+    width:40rem;
+    height: 50px;
+    text-align: center;
+    color:rgb(0, 34, 255)    
+}
